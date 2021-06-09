@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## This account isn't and will not be used to store my projects, I already store them on GITLAB
+## I'm more active on GitLab :)
 
 ### https://gitlab.com/vitali64yt
 
