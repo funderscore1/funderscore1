@@ -1,10 +1,8 @@
-you can find me on my own git server - https://git.vitali64.duckdns.org/
-
-questions? https://vitali64.duckdns.org/
+you can find me on my own git server
 
 thanks
 
-== We're Using GitHub Under Protest ==
+<hr>
 
 GitHub is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
